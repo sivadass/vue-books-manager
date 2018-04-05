@@ -1,0 +1,37 @@
+#app {
+  font-family: "Helvetica", Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  color: #4099ff;
+}
+
+/* Header styles */
+header {
+  display: block;
+  padding: 16px 0;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+header ul li {
+  display: inline-block;
+}
+
+header ul li a {
+  display: block;
+  padding: 16px 24px;
+}
