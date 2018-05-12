@@ -5,9 +5,9 @@
   <div id="app">
     <header>
       <ul>
-        <li><a href="#/want-to-read">Wishlist</a></li>
+        <li><a href="#/want-to-read">To Read</a></li>
         <li><a href="#/completed">Completed</a></li>
-        <li><a href="#/reading-challenge">Progress</a></li>
+        <li><a href="#/reading-challenge">Currently Reading</a></li>
         <li><a href="#/book-detials">Quotes</a></li>
       </ul>
     </header>
