@@ -1,23 +1,25 @@
 <template>
   <div class="container">
-    <h1>{{ msg }}</h1>
+    <h1>{{ msg }} Books</h1>
+    <p>You have completed <strong>3</strong> books so far, this year.</p>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'Completed',
+  name: "Completed",
   data() {
     return {
-      msg: 'Completed',
+      msg: "Completed"
     };
-  },
+  }
 };
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-h1, h2 {
+h1,
+h2 {
   font-weight: normal;
 }
 ul {
