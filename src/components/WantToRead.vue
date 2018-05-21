@@ -1,23 +1,25 @@
 <template>
   <div class="container">
-    <h1>{{ msg }}</h1>
+    <h1>Reading wishlist</h1>
+    <p>{{msg}}</p>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'WantToRead',
+  name: "WantToRead",
   data() {
     return {
-      msg: 'Want to read the books',
+      msg: "Want to read the books"
     };
-  },
+  }
 };
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-h1, h2 {
+h1,
+h2 {
   font-weight: normal;
 }
 ul {
