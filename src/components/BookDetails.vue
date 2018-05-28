@@ -4,6 +4,8 @@
     <ul>
       <li>Pages: #286</li>
       <li>Edition: May 2014</li>
+      <li>Author: Susan Gray</li>
+      <li>Rating: 4.5/5</li>
     </ul>
   </div>
 </template>
