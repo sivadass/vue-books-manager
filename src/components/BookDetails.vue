@@ -12,7 +12,7 @@
 
 <script>
 export default {
-  name: "BookDetails",
+  name: "BookDetail",
   data() {
     return {
       msg: "Book Details Page"
@@ -36,6 +36,6 @@ li {
   margin: 0 10px;
 }
 a {
-  color: #42b983;
+  color: #269965;
 }
 </style>
